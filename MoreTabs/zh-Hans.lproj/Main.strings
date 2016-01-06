@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Loaded by ThirdViewController"; ObjectID = "59K-Cg-U6z"; */
+"59K-Cg-U6z.text" = "加载自第三个界面";
+
+/* Class = "UILabel"; text = "Sixth View"; ObjectID = "5io-rQ-bZo"; */
+"5io-rQ-bZo.text" = "第六个视图";
+
+/* Class = "UILabel"; text = "Loaded by FirstViewController"; ObjectID = "A5M-7J-77L"; */
+"A5M-7J-77L.text" = "加载自第一个视图";
+
+/* Class = "UITabBarItem"; title = "Fourth"; ObjectID = "BEc-u6-vck"; */
+"BEc-u6-vck.title" = "第四";
+
+/* Class = "UILabel"; text = "Fourth View"; ObjectID = "Ca8-su-Q4J"; */
+"Ca8-su-Q4J.text" = "第四个视图";
+
+/* Class = "UITabBarItem"; title = "Sixth"; ObjectID = "Ci2-yH-oKG"; */
+"Ci2-yH-oKG.title" = "第六";
+
+/* Class = "UILabel"; text = "Third View"; ObjectID = "CpD-OK-Yt5"; */
+"CpD-OK-Yt5.text" = "第三个视图";
+
+/* Class = "UILabel"; text = "First View"; ObjectID = "KQZ-1w-vlD"; */
+"KQZ-1w-vlD.text" = "第一个视图";
+
+/* Class = "UITabBarItem"; title = "Fifth"; ObjectID = "MRf-rc-mwk"; */
+"MRf-rc-mwk.title" = "第五";
+
+/* Class = "UILabel"; text = "Loaded by SecondViewController"; ObjectID = "NDk-cv-Gan"; */
+"NDk-cv-Gan.text" = "加载自第二个界面";
+
+/* Class = "UILabel"; text = "Fifth View"; ObjectID = "NIh-fu-m47"; */
+"NIh-fu-m47.text" = "第五个视图";
+
+/* Class = "UILabel"; text = "Loaded by FourthViewController"; ObjectID = "NgM-1Y-mqE"; */
+"NgM-1Y-mqE.text" = "加载自第四个视图";
+
+/* Class = "UITabBarItem"; title = "Third"; ObjectID = "UdT-3V-7E9"; */
+"UdT-3V-7E9.title" = "第三";
+
+/* Class = "UITabBarItem"; title = "First"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "第一";
+
+/* Class = "UITabBarItem"; title = "Second"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "第二";
+
+/* Class = "UILabel"; text = "Loaded by SixthViewController"; ObjectID = "jeD-gp-uEJ"; */
+"jeD-gp-uEJ.text" = "加载自第六个视图";
+
+/* Class = "UILabel"; text = "Loaded by FifthViewController"; ObjectID = "l0T-28-T5Y"; */
+"l0T-28-T5Y.text" = "加载自第五个视图";
+
+/* Class = "UILabel"; text = "Second View"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "第二个视图";
